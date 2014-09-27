@@ -6,3 +6,6 @@ description      'Installs/Configures cryp7-users'
 long_description 'Installs/Configures cryp7-users'
 version          '0.1.0'
 
+depends 'users'
+depends 'sudo'
+
